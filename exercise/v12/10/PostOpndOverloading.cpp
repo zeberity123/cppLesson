@@ -10,7 +10,7 @@ public:
 	{  }
 	void ShowPosition() const
 	{
-		cout<<'['<<xpos<<", "<<ypos<<']'<<endl; 
+		cout<<'['<<xpos<<", "<<ypos<<']'<<endl;
 	}
 	Point& operator++() 
 	{
