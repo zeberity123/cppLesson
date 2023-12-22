@@ -1,0 +1,12 @@
+Title: To static 
+======================================================
+
+static int gi = 123;	// .DATA 
+
+static int func(void){
+
+	{
+		int li = 1;
+	}
+	printf("%d",   li++ ); 
+}

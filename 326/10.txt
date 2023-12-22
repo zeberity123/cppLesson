@@ -1,0 +1,20 @@
+Title: To dynamic memory 
+======================================================
+
+	1. c 
+	
+		@ heap 
+	
+		void *p = malloc( size_in_bytes );
+	
+		free(p);
+		
+	
+	2. c++
+
+		@ heap 
+		
+			type *p = new type 
+		
+			delete p ; 
+		

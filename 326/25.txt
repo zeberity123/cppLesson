@@ -1,0 +1,33 @@
+Title: poly-morphism
+======================================================
+
+class A 
+{
+public:
+	int  Av;
+	A(){ cout << " const. A " << endl;
+	virtual void go()=0;
+
+};
+
+class AAAA : public AAA , public ABB
+{
+public:
+	inv AAv;
+	AA(){ cout << " const.AA " << endl;
+	void go(){ cout << "roll" << endl; };	
+	
+};
+
+int main()
+{
+	A a;
+	
+	
+	
+
+	A*  pA = new AAA; 
+	
+	pA->go();
+
+}

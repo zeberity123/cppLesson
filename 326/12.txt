@@ -1,0 +1,29 @@
+Title: To what program is ?
+======================================================
+
+	@c is a structured programming 
+
+	1. data
+
+		simple data 
+			char, short, int, double...
+		
+		complex( aggregated ) data
+	
+			struct, union, .. 
+	
+	2. algorithm 
+
+			function
+
+
+	@cpp - object oriented programming
+
+
+		a class 
+			1. data
+			2. algorithm
+		
+		
+		
+

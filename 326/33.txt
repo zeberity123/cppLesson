@@ -1,0 +1,36 @@
+Title: To Template
+======================================================
+
+Template - stamp !  ( stamp on source )
+
+	1. function 
+	
+	2. class 
+
+
+function overloading 
+
+int add(int    x,int    y) //.......1
+{
+	return x + y;
+}
+double add(double x,double y) //.......2
+{
+	return x + y; 
+}
+
+@main
+	add(1 ,  2  );  //...1
+	add(1.0, 2.0); 	//...2
+
+
+
+
+
+class --> object !
+	ie, 
+		A a;   ( stamp on memory )
+		
+		
+	
+

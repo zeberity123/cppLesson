@@ -1,0 +1,20 @@
+Title: To char *  vs.   const char *
+======================================================
+
+	printf("%d", 'A')
+	printf("%d", "A")
+	
+
+{
+	char c = 'a' ; 
+
+    char *  ps = "hello";
+               = const char * 
+
+	ps = "world" ;  // ox 
+
+-----------------------------------
+	const char * cps = "hello";
+	cps[0] == *(cps+0)==*cps =' '; //ox 
+	cps = "world" ; //ox 
+

@@ -1,0 +1,20 @@
+Title: To operator overloading 
+======================================================
+{
+	A   a ; 
+	Complex   b ; 
+	Complex   c ; 
+
+	a + b 		//.......... (1)
+	
+	+ is
+		1. a member function of 'a' with operand 'b'
+		
+			a.+(b)
+		
+		
+		2. a global function with arguments( a and b ) 
+
+			+( a, b ) { return Complex(re(a)+re(b), im(a)+im(b))  }
+	
+

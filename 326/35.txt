@@ -1,0 +1,24 @@
+Title: To cast 
+======================================================
+
+	@C
+	
+		(type)
+	
+		1. implicit
+		
+			i=d; 
+		
+		2. explicit
+	
+			i = (int)d ; //
+	
+	@C++
+
+		1. dynamic cast 
+		2. static cast
+		3. const cast
+		4. re-interpret cast 
+
+
+

@@ -1,0 +1,19 @@
+Title: To type of array
+======================================================
+
+	type identifier = init ; 
+
+	int  i   ; // 표준식|표현식
+
+
+	int a[3] ; // 표현식
+	int *p   ; // ? 
+	
+	p = a ; // o
+	(int*) = (int*)
+	
+	
+	
+	int[3] a ; // 표준식 
+	
+	

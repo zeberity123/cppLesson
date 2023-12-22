@@ -1,0 +1,25 @@
+Title: To curr..
+======================================================
+
+	NVidia --->  AI 
+	
+	data --> data science -> certi.
+
+	Python !
+	
+	- interpreted(->compile ->cache) vs. compiler 
+	--> flexible !
+	---> flenty libraries  ( c++ )
+	----> 
+	
+	C-lang : structured lang.
+			-> function
+	C++    :  o(class)op       lang.
+			-> class
+			
+	Python :
+
+	
+	
+	
+	

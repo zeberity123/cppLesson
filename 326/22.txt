@@ -1,0 +1,23 @@
+Title: To private
+======================================================
+
+class A
+{
+	int age;
+	
+public:
+	void show_age(void) { cout << age ;};
+}
+
+int main()
+{
+	A  a; 
+	a.show_age(); 
+	
+	A* pa = new A; 
+	
+	pa->show_age();
+	
+	
+
+}

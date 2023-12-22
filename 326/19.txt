@@ -1,0 +1,17 @@
+Title: To parameter passing
+======================================================
+
+myclass func( myclass i ){
+
+    i.....
+	
+    return i ;
+}
+
+
+int main()
+{
+  myclass a;
+  
+  myclass c = func(a);
+}

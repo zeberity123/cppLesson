@@ -1,0 +1,10 @@
+Title: To console output / input
+======================================================
+
+iostream 
+
+	cout
+	cin
+	endl
+	
+	 cout << value << value2 << value3 << endl;

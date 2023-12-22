@@ -1,0 +1,18 @@
+Title: To overloading vs. overriding 
+======================================================
+
+
+
+void func(int , int ){}
+
+void func(int ){ ... }
+int  func(int ){ ... }
+
+void func(double ){.........}
+
+int main()
+{
+
+	func(5.);
+
+}

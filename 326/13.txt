@@ -1,0 +1,13 @@
+Title: To enum 
+======================================================
+
+struct mystruct_s { int i, int j, int k };
+
+enum DAY_s { SUN, MON, TUE }
+
+typedef enum DAY_s myday_t ; 
+
+
+
+
+

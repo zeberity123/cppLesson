@@ -1,0 +1,6 @@
+Title: To attribute of variable
+======================================================
+
+	1. life time
+	
+	2. scope 

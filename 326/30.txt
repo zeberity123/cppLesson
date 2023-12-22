@@ -1,0 +1,21 @@
+Title: To assign vs. copy constr.
+======================================================
+
+{
+	Point p1(1,2);
+	
+	Point p2(p1) ;	//2  - C++ style
+
+	Point p3=p2  ; 	//3  - C   style
+	
+	
+	p1 = p3 ; 
+	
+	
+	cf, 
+	
+		int i = 1; 	// C
+		
+		int i(1) ;  // C++
+		
+		

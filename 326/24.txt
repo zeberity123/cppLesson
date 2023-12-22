@@ -1,0 +1,44 @@
+Title: To access control  ,  inherit control
+======================================================
+
+class A 
+{
+private:
+	int vpri;
+protected:
+	int vpro;
+public:
+	int vpub;
+	
+	void disp(){
+	
+		cout << vpri << endl ; // o
+	
+	}
+	
+};
+
+class AA : (private|protected|public) A 
+{
+	
+public:
+	void func()
+	{
+		
+		disp(); // o 
+		cout << vpri << endl ; // x
+	
+	}
+	
+	
+	
+};
+
+int main()
+{
+	AA  aa; 
+	
+	aa.vpub = 1; // o
+
+	aa.vpro = 1; // x 
+}

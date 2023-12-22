@@ -1,0 +1,6 @@
+
+
+	1+2 	(int)+(int)
+	
+	(double)1 + 2.0 (int) + (double)
+	

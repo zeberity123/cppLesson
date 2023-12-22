@@ -1,0 +1,13 @@
+Title: To object oriented 
+======================================================
+
+	1. data hiding 
+	
+	
+	2. capsulation 
+	
+	
+	3. inheritance
+	
+	
+	4. poly-morphism 

@@ -1,0 +1,17 @@
+
+
+
+ 곤충A
+	go(){ "기어가" };
+ 
+ 바퀴AA
+	go() { "굴러가" }; 
+	
+	
+	
+clas AA : public A 
+
+main 
+	AA aa; 
+	
+	aa.go() 

@@ -1,0 +1,13 @@
+Title: To type
+======================================================
+
+
+	data-type  identifier = init
+
+
+	void func(){... return 1 };
+	
+	int a = func();
+	
+	
+	(type)
